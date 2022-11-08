@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Cpp</string>
+    <string name="run_cpp">Run C++</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="show_plasma_cpp">Plasma C++</string>
+    <string name="enable_calculator">Open Calculator</string>
+    <string name="title_calculator">Calculator</string>
+</resources>
